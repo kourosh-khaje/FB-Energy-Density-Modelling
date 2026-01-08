@@ -1,7 +1,6 @@
 # Flow-Battery Energy-Density Calculator
 
-A short, self-contained Python script that estimates practical energy densities for vanadium‐based and gas–liquid hybrid flow batteries.  
-The code couples a full Butler–Volmer + mass-transport model (liquid side) with a simplified Nernst model (gas side) and produces four comparison tables plus an interactive 3-D bar chart.
+A short, self-contained Python script that estimates practical energy densities for vanadium‐based and gas–liquid hybrid flow batteries. The code couples a full Butler–Volmer + mass-transport model (liquid side) with a simplified Nernst model (gas side) and produces four comparison tables plus an interactive 3-D bar chart.
 
 ## Features
 - Ready-to-run – only `numpy`, `pandas`, `scipy`, `matplotlib` required  
