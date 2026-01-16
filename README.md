@@ -13,3 +13,11 @@ Citation
 If you use this code in an academic work, please cite:
 Khaje, K. (2026). Flow-Battery Energy-Density Calculator (v1.0).
 https://github.com/kourosh-khaje/Flow-Battery-Energy-Density-Estimation.git
+
+## Contact
+
+For questions or suggestions:
+- Create an [Issue](https://github.com/yourusername/Flow-Battery-Energy-Density-Estimation/issues)
+- Email: kourosh.khaje@gmail.com
+- author= Kourosh Khaje (PhD),
+  year={2026},
