@@ -1,4 +1,4 @@
-# Flow-Battery Energy-Density Calculator
+# Flow-Battery Energy-Density Modelling 
 
 ##Overview
 
