@@ -1,4 +1,4 @@
-# Flow-Battery Energy-Density Modelling 
+# FB Energy-Density Modelling 
 
 ## Overview
 
