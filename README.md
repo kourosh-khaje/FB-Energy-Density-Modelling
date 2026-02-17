@@ -3,6 +3,7 @@
 ## Overview
 
 This open-source script provides a complete framework for estimating practical energy densities for vanadium-based and gas–liquid hybrid flow batteries. The code couples a full Butler–Volmer + mass-transport model (liquid side) with a simplified Nernst model (gas side) and produces four comparison tables plus an interactive 3-D bar chart.
+https://doi.org/10.1016/j.seta.2026.104887
 
 ## Features
 
